@@ -1,0 +1,12 @@
+/mnt/wsl/PHYSICALDRIVE4/projects/www/nlw/TechLibrary/TechLibrary.Communication/bin/Debug/net9.0/TechLibrary.Communication.deps.json
+/mnt/wsl/PHYSICALDRIVE4/projects/www/nlw/TechLibrary/TechLibrary.Communication/bin/Debug/net9.0/TechLibrary.Communication.dll
+/mnt/wsl/PHYSICALDRIVE4/projects/www/nlw/TechLibrary/TechLibrary.Communication/bin/Debug/net9.0/TechLibrary.Communication.pdb
+/mnt/wsl/PHYSICALDRIVE4/projects/www/nlw/TechLibrary/TechLibrary.Communication/obj/Debug/net9.0/TechLibrary.Communication.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/wsl/PHYSICALDRIVE4/projects/www/nlw/TechLibrary/TechLibrary.Communication/obj/Debug/net9.0/TechLibrary.Communication.AssemblyInfoInputs.cache
+/mnt/wsl/PHYSICALDRIVE4/projects/www/nlw/TechLibrary/TechLibrary.Communication/obj/Debug/net9.0/TechLibrary.Communication.AssemblyInfo.cs
+/mnt/wsl/PHYSICALDRIVE4/projects/www/nlw/TechLibrary/TechLibrary.Communication/obj/Debug/net9.0/TechLibrary.Communication.csproj.CoreCompileInputs.cache
+/mnt/wsl/PHYSICALDRIVE4/projects/www/nlw/TechLibrary/TechLibrary.Communication/obj/Debug/net9.0/TechLibrary.Communication.sourcelink.json
+/mnt/wsl/PHYSICALDRIVE4/projects/www/nlw/TechLibrary/TechLibrary.Communication/obj/Debug/net9.0/TechLibrary.Communication.dll
+/mnt/wsl/PHYSICALDRIVE4/projects/www/nlw/TechLibrary/TechLibrary.Communication/obj/Debug/net9.0/refint/TechLibrary.Communication.dll
+/mnt/wsl/PHYSICALDRIVE4/projects/www/nlw/TechLibrary/TechLibrary.Communication/obj/Debug/net9.0/TechLibrary.Communication.pdb
+/mnt/wsl/PHYSICALDRIVE4/projects/www/nlw/TechLibrary/TechLibrary.Communication/obj/Debug/net9.0/ref/TechLibrary.Communication.dll

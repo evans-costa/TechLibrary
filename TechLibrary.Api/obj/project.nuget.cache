@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RdQ6gstasN8=",
+  "dgSpecHash": "SpTZnKbmIUw=",
   "success": true,
   "projectFilePath": "/mnt/wsl/PHYSICALDRIVE4/projects/www/nlw/TechLibrary/TechLibrary.Api/TechLibrary.Api.csproj",
   "expectedPackageFiles": [
+    "/home/evanscosta/.nuget/packages/fluentvalidation/11.11.0/fluentvalidation.11.11.0.nupkg.sha512",
     "/home/evanscosta/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/home/evanscosta/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/evanscosta/.nuget/packages/humanizer.core.af/2.14.1/humanizer.core.af.2.14.1.nupkg.sha512",
@@ -123,7 +124,7 @@
     "/home/evanscosta/.nuget/packages/system.text.json/7.0.3/system.text.json.7.0.3.nupkg.sha512",
     "/home/evanscosta/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512",
     "/home/evanscosta/.nuget/packages/system.threading.tasks.dataflow/8.0.0/system.threading.tasks.dataflow.8.0.0.nupkg.sha512",
-    "/home/evanscosta/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.1/microsoft.aspnetcore.app.ref.9.0.1.nupkg.sha512"
+    "/home/evanscosta/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.2/microsoft.aspnetcore.app.ref.9.0.2.nupkg.sha512"
   ],
   "logs": []
 }
